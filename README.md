@@ -2,6 +2,8 @@
 
 Passatempo... Um Projeto de Administração Inspirado no Sistema de Missões de Tavernas Representados em Filmes Medievais.
 
+![Alt text](/imagens/README/6bf9aff48d42160f750455031694068d.jpg?raw=true "Fundo taverna")
+
 ### O Sistema Será Desenvolvido em 4 Partes:
 
 1 -> Conceitual: Definição de Relações e Entidades Necessárias Para a Operação do Sistema;
