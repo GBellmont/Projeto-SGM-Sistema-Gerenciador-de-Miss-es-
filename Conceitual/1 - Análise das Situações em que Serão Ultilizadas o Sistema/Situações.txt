@@ -1,0 +1,42 @@
+-> Reinos
+-> Cidades
+-> Tavernas
+-> Missões
+-> Personagem
+   -> Categorias
+   Procura:
+           -> Itens;
+	      -> Categorias
+
+   Enfrenta:
+           -> Ordas
+              Contém:
+                     -> Monstros;
+				
+-> Guilda
+
+um REINO possue uma ou várias CIDADES;
+uma CIDADE pertence a um REINO;
+uma CIDADE tem uma, nenhuma ou várias TAVERNAS;
+uma TAVERNA pertence à apenas uma CIDADE;
+uma TAVERNA pussui uma, ou várias MISSÕES;
+uma MISSÃO pode estar em mais de uma TAVERNA;
+uma MISSÃO deve ser feita por um PERSONAGEM;
+um PERSONAGEM pode realizar várias MISSÕES;
+um PERSONAGEM pertence a uma CATEGORIAdePERSONAGEM;
+uma CATEGORIAdePERSONAGEM pode pertencer a um, nenhum ou vários PERSONAGENS;
+um PERSONAGEM pode estar em uma ou nenhuma GUILDA;
+uma GUILDA pode ter diverssos PERSONAGENS;
+um ITEM pertence a um PERSONAGEM;
+um PERSONAGEM pode ter vários ITENS;
+um ITEM pertence a uma CATEGORIAdeITEM;
+uma CATEGORIAdeITEM pode estar em um, nenhum ou vários ITENS;
+uma MISSÃO deve conter uma ORDA;
+uma ORDA pode estar em uma ou nenhuma MISSÃO;
+uma ORDA deve ter no mínimo um MONSTRO;
+um MONSTRO deve estar em uma ORDA;
+
+
+
+
+
