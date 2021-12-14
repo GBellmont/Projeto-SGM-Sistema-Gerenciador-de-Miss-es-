@@ -1,6 +1,8 @@
 -> Reinos
 -> Cidades
 -> Tavernas
+-> Loja-Alquimista
+-> Ferraria
 -> Missões
 -> Personagem
    -> Categorias
@@ -19,6 +21,10 @@ um REINO possue uma ou várias CIDADES;
 uma CIDADE pertence a um REINO;
 uma CIDADE tem uma, nenhuma ou várias TAVERNAS;
 uma TAVERNA pertence à apenas uma CIDADE;
+uma uma CIDADE tem uma, nenhuma ou várias LOJAS-ALQUIMISTAS;
+uma LOJA-ALQUIMISTA pertence à apenas uma CIDADE;
+uma CIDADE tem uma, nenhuma ou várias FERRARIAS;
+uma FERRARIA pertence à apenas uma CIDADE;
 uma TAVERNA pussui uma, ou várias MISSÕES;
 uma MISSÃO pode estar em mais de uma TAVERNA;
 uma MISSÃO deve ser feita por um PERSONAGEM;
