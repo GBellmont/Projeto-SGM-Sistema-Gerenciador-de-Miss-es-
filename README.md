@@ -7,6 +7,7 @@ Passatempo... Um Projeto de Administração Inspirado no Sistema de Missões de 
 ### O Sistema Será Desenvolvido em 4 Partes:
 
 1 -> Conceitual: Definição de Relações e Entidades Necessárias Para a Operação do Sistema;
+###### Parte 1 Completa;
 
 2 -> Lógico: Definição de Dados Que Serão Necessários Para o Funcionamento do Sistema;
 
